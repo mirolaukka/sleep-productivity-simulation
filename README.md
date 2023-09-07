@@ -7,7 +7,7 @@ Explore the correlation between sleep duration and productivity through simulati
 
 The concept involves simulating the sleep patterns of individuals and their corresponding productivity levels. The objective is to identify the optimal sleep duration that maximizes productivity.
 
-This simulation is contingent upon several key parameters, each represented by Greek letters to reflect their intended purpose:
+This simulation is contingent upon several key parameters:
 
 * α (Alpha): The rate of energy restoration during sleep.
 * β (Beta): The number of hours slept.
