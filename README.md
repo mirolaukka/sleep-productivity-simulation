@@ -9,10 +9,10 @@ The concept involves simulating the sleep patterns of individuals and their corr
 
 This simulation is contingent upon several key parameters, each represented by Greek letters to reflect their intended purpose:
 
-α (Alpha): The rate of energy restoration during sleep.
-β (Beta): The number of hours slept.
-γ (Gamma): The rate of energy depletion per hour of productivity.
-δ (Delta): The rate at which productivity decreases due to diminishing energy levels.
+* α (Alpha): The rate of energy restoration during sleep.
+* β (Beta): The number of hours slept.
+* γ (Gamma): The rate of energy depletion per hour of productivity.
+* δ (Delta): The rate at which productivity decreases due to diminishing energy levels.
 
 Within this simulation, a day comprises 24 hours, during which individuals alternate between two states: WORKING and SLEEPING. When working, productivity accumulates for the day, while an individual's energy level decreases at a rate determined by γ. During sleep, energy levels are replenished based on α.
 
